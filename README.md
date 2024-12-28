@@ -1,17 +1,29 @@
-## Hi there 👋
-Привет, меня зовут Кирилл. =========================== Я начинающий разработчик. Я пока не определился, в каком направлении хочу двигаться, но ориентировочно выбираю между DevOps и системным администрированием. У меня мало опыта, но я постепенно набираюсь его. * ✉️ Вы можете связаться со мной по адресу [kirilltitov45767@yandex.ru](mailto:kirilltitov45767@yandex.ru)
+# Привет, меня зовут Кирилл
 
-<!--
-**Dilsaii/Dilsaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик. Я пока не определился, в каком направлении хочу двигаться, но ориентировочно выбираю в сторону DevOps и системного админа.  
+У меня мало опыта, но я постепенно его набираюсь.  
 
-Here are some ideas to get you started:
+Вы можете связаться со мной: 
+1. По адресу эл.почты **kirilltitov45767@yandex.ru**;
+2. Telegram **https://t.me/dilssai**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Навыки
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+
+---
+
+### Социальные сети
+
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" />](https://github.com/ваш_профиль)
+
+---
+
+### Значки
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_профиль&layout=compact)
